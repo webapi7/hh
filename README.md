@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m a B.Tech Computer Science student at ITM Skills University, passionate about programming and technology.  
+# 🌟 About Me:
+🌿 I’m a B.Tech Computer Science student at ITM Skills University, passionate about programming and technology.  
 📚 I’m currently looking to collaborate on Python or C++ applications, game development with Scratch, and open-source projects.  
 ⚡ I’ve learned Python, Scratch, C++, and no-code tools, and I’m now diving deeper into web development and UI/UX design.
 
@@ -11,7 +11,7 @@
   <a href="https://instagram.com/rayan.22._">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="mailto:rayanrawat26@gmail.com" target="_blank" style="all: unset; display: inline-block;">
+  <a href="mailto:rayanrawat26@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail" height="30" width="40" />
   </a>
 </div>
