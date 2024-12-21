@@ -6,7 +6,11 @@
 <h2 align="left">Connect with me:</h2>
 
 <p align="left">
-<a href="https://linkedin.com/in/rayan-rawat-22bb40315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangram das" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rayan-rawat-22bb40315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangram das" height="30" width="40" />
+</a>
+<a href="https://instagram.com/rayan.22._">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 <a href="mailto:rayanrawat26@gmail.com" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
