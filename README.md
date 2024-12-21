@@ -9,12 +9,14 @@
 <a href="https://linkedin.com/in/rayan-rawat-22bb40315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangram das" height="30" width="40" /></a>
 <a href="https://instagram.com/rayan.22._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sangramdas_1" height="30" width="40" /></a>
 
-<a href="mailto:rayanrawat26@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail/default.svg" alt="sangramr1qur" height="30" width="40" /></a>
+<a href="mailto:rayanrawat26@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sangramr1qur" height="30" width="40" /></a>
 </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=c,java,html,css,vscode,github,figma,git,vercel,netlify" />
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rayan-17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rayan-17&theme=dark&hide_border=false)<br/>
