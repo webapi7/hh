@@ -4,11 +4,11 @@
 ⚡ I’ve learned Python, Scratch, C++, and no-code tools, and I’m now diving deeper into web development and UI/UX design.
 
 <h2 align="left">Connect with me:</h2>
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items:center; gap: 10px;">
   <a href="https://linkedin.com/in/rayan-rawat-22bb40315" target="_blank" style="all: unset; display: inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/rayan.22._" target="_blank" style="all: unset; display: inline-block;">
+  <a href="https://instagram.com/rayan.22._" style="all: unset; display: inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="mailto:rayanrawat26@gmail.com" target="_blank" style="all: unset; display: inline-block;">
